@@ -2,7 +2,7 @@
 A new form of application that is Decentralized, Cross Platform and Self Hosted
 
 
-* Decentralized - DWAP reprents web application that is distributed in the form of a file. People could use any existing way to get it. From P2P network, or Cloud disk like Dropbox or even as an attachment of email. No single centrol point to block it. 
+* Decentralized - DWAP reprents web application that is distributed in the form of a file. People could use any existing way to get it, from P2P network, Cloud disk like Dropbox or even as an attachment of email. No single centrol point to block it. 
 
 * Cross Platform - DWAP file can be opened in Window, Mac and Linux. More platform support are coming soon!
 
