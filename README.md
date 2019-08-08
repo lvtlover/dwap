@@ -7,3 +7,5 @@ A new form of application that is Decentralized, Cross Platform and Self Hosted
 * Cross Platform - DWAP file can be opened in Window, Mac and Linux. More platform support are coming soon!
 
 * Self Hosted - All files needed can be embeded in one DWAP file. It can even run without an internet connection.
+
+Try it https://github.com/lvtlover/dwap/releases
