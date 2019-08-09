@@ -24,3 +24,8 @@ It may be easier for user to use to create a zip file which has .dwap file, dwap
 
 Try it https://github.com/lvtlover/dwap/releases
 
+
+## You are welcome to submit your dwap file that show the power of decentrlized web
+
+https://github.com/lvtlover/dwap/issues
+
