@@ -1,5 +1,5 @@
-# DWAP is Decentralized Web Application
-A new form of application that is Decentralized, Cross Platform and Self Hosted
+# DWAP is Decentralised Web Application
+A new form of application that is Decentralised, Cross Platform and Self Hosted
 
 
 * Decentralized - DWAP reprents web application that is distributed in the form of a file. People could use any existing way to get it, from P2P network, Cloud disk like Dropbox or even as an attachment of email. No single centrol point to block it. 
@@ -25,7 +25,7 @@ It may be easier for user to use to create a zip file which has .dwap file, dwap
 Try it https://github.com/lvtlover/dwap/releases
 
 
-## You are welcome to submit your dwap file that show the power of decentrlized web
+## You are welcome to submit your dwap file that show the power of Decentralised web
 
 https://github.com/lvtlover/dwap/issues
 
